@@ -1,0 +1,23 @@
+{
+  "name": "metapolis-voting",
+  "version": "1.0.0",
+  "description": "Smart contracts for on-chain Metapolis voting platform.",
+  "main": "hardhat.config.ts",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metapolis-Voice/metapolis-voting.git"
+  },
+  "author": "Metapolis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Metapolis-Voice/metapolis-voting/issues"
+  },
+  "homepage": "https://github.com/Metapolis-Voice/metapolis-voting#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.0"
+  }
+}
